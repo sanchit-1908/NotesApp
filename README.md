@@ -1,12 +1,29 @@
-# React + Vite
+# 📝 Supabase Notes App with Edge Functions
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack Notes App built using **React** and **Supabase**, utilizing **Edge Functions** for secure data handling.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔐 Supabase Auth (email login)
+- 🗒️ Create and view personal notes
+- 🔄 Uses **Supabase Edge Functions** for secure server-side operations
+- 🪄 Styled with Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📁 Images
+
+- Login Page
+
+  ![Screenshot (92)](https://github.com/user-attachments/assets/7f0dda09-456e-4e05-b613-4850dcf56b19)
+
+- Logged-in Page
+
+ ![Screenshot (93)](https://github.com/user-attachments/assets/66568954-5cad-4c63-8b18-5bac8faef66e)
+
+
+- Data Page
+
+
