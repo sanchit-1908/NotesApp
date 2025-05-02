@@ -23,7 +23,9 @@ A full-stack Notes App built using **React** and **Supabase**, utilizing **Edge 
 
  ![Screenshot (93)](https://github.com/user-attachments/assets/66568954-5cad-4c63-8b18-5bac8faef66e)
 
-
 - Data Page
+
+  ![Screenshot (94)](https://github.com/user-attachments/assets/9910e05b-0b7f-4094-9155-9129b3923c24)
+
 
 
