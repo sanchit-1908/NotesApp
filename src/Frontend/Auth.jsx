@@ -25,14 +25,14 @@ export default function Auth({ onLogin }) {
         {isLogin ? 'Login' : 'Sign Up'}
       </h2>
       <input
-        className="w-full p-2 border rounded"
+        className="bg-white w-full p-2 border rounded"
         value={email}
         onChange={(e) => setEmail(e.target.value)}
         placeholder="Email"
       />
       <input
         type="password"
-        className="w-full p-2 border rounded"
+        className="bg-white w-full p-2 border rounded"
         value={password}
         onChange={(e) => setPassword(e.target.value)}
         placeholder="Password"
